@@ -5,7 +5,7 @@ export default function Header(){
         <header className='header'>
             <div class='header--leftWrapper'>
                 <img src={icon} className='header--icon'/>
-                <h2 className='header--title'>Meme generator</h2>
+                <h2 className='header--title'>Meme Generator</h2>
             </div>
             <p className='header--sideText'>React Course - Project 3</p>
         </header>
