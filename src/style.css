@@ -68,3 +68,11 @@ body{
   letter-spacing: -0.5px;
   font-weight: 500;
 }
+
+.meme--button:active{
+  background: linear-gradient(90deg, #401552 0%, #752990 100%);;
+}
+
+.meme--image{
+  max-width: 80%;
+}
